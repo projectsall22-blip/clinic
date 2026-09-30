@@ -12,7 +12,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
   "https://dvgss.in",
-  "https://www.dvgss.in"
+  "https://www.dvgss.in",
+  "https://clinic-eight-fawn.vercel.app"
 ];
 
 app.use(cors({
